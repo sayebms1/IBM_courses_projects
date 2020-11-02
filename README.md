@@ -1,2 +1,2 @@
-# IBM data certification materials are stored here
+# IBM data certification course materials and projects are stored here
 
